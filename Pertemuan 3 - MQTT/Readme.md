@@ -185,7 +185,8 @@ Yang bisa dibaca dari log ini: koneksi WiFi butuh sekitar 83 detik (titik pertam
 
 > Tempel tangkapan layar Serial Monitor setelah `waktu` ditambahkan di sini.
 
----
+<img width="1120" height="700" alt="percobaan3A" src="https://github.com/user-attachments/assets/65810d6b-5a79-47e4-aa22-81bc9eb96163" />
+
 
 # Percobaan 3B: Komunikasi Data Menggunakan MQTT
 
@@ -288,7 +289,8 @@ Di `loop()`, `if (!client.connected())` memeriksa apakah koneksi ke broker masih
 
 > Tempel tangkapan layar Serial Monitor dan aplikasi client MQTT untuk Percobaan 3B di sini.
 
----
+<img width="1120" height="700" alt="percobaan3B" src="https://github.com/user-attachments/assets/253a5874-16cc-4ae6-9117-8f98472fa551" />
+
 
 # Pertanyaan Praktikum - Percobaan 3A
 
